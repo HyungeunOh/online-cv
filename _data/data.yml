@@ -40,14 +40,12 @@ sidebar:
       - item: Boxing
         link:
 
-
-Interests:
+career-profile:
     title: Interests
     summary: Bayesian Estimation, Intensive Longitudinal Models, Multilevel Models, Structural Equation Models, Time-Series Models 
 
 education:
-      title: education
-      
+      title: education     
     - degree: M.A. in Quantitative Psychology
       university: Sungkyunkwan University, South Korea
       time: Mar 2019 - Current
