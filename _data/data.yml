@@ -36,7 +36,6 @@ sidebar:
 career-profile:
     title: Interests
     summary: Bayesian Estimation, Intensive Longitudinal Models, Multilevel Models, Structural Equation Models, Time-Series Models 
-
 education:
       title: education     
     - degree: M.A. in Quantitative Psychology
@@ -44,33 +43,28 @@ education:
       time: Mar 2019 - Current
       Advisor: Seungmin Jahng
       Thesis: Analyzing Individual Differences of Emotional Instability using Dynamic Structural Equation Models 
-
     - degree: B.A. in Psychology
       university: Sungkyunkwan University, South Korea 
       time: 2013 - Feb 2019
-      details: *Fall, 2017: Exchange Students, Sports Psychology, University of North Carolina at Greensboro.
-               *2013–2015  Absence from program due to mandatory military service
-                           Sergeant, Air Squadron Operational Control Unit, Republic of Korea Air Force 
+      details: Fall, 2017: Exchange Students, Sports Psychology, University of North Carolina at Greensboro.
+               -2013–2015  Absence from program due to mandatory military service. Sergeant, Air Squadron Operational Control Unit, Republic of Korea Air Force 
 publications:
     title: Publications
     papers:
       - title: Analyzing Individual Differences of Emotional Instability using Dynamic Structural Equation Models. Journal name.
         link: "add hyperlink here"
         authors: Oh, H., Jahng, S. 
-
 presentations:
     title: presentation
     presentation:
       - title: A Simulation Study of the Performances of Multilevel Structural Equation Models with Small Samples: Frequentist vs Bayesian.
         link: "add hyperlink here"
         authors: Oh, H., Yu, H., & Jahng, S   
-        conferences: Poster session presented at 2021 Association for Psychological Science Annual Convention. Online Virtual meeting. (May 2021)
-        
+        conferences: Poster session presented at 2021 Association for Psychological Science Annual Convention. Online Virtual meeting. (May 2021)       
       - title: 역동구조방정식을 활용한 정서불안정성의 개인차 분석 [Analyzing Individual Differences of Emotional Instability using Dynamic Structural Equation Models.] 
         link: "add hyperlink here"
         authors: Oh, H., & Jahng, S   
-        conferences: Poster session presented at the meeting of the Korean Society of Psychological Measurement and Assessment. Seoul, South Korea. (Oct 2020)
-        
+        conferences: Poster session presented at the meeting of the Korean Society of Psychological Measurement and Assessment. Seoul, South Korea. (Oct 2020)        
       - title: 소표본 자료의 다층모형 분석에서 빈도주의와 베이지안 추정의 비교: 시뮬레이션 연구[Comparing Performances of Multilevel Models with Small Samples through Different Estimation Methods: A Simulation Study.] 
         link: "add hyperlink here"
         authors: Oh, H.
