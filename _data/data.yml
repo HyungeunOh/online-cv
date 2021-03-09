@@ -33,13 +33,6 @@ sidebar:
         level: Proficient
 
 
-    Personal Interests:
-      - item: Soccer
-        link:
-
-      - item: Boxing
-        link:
-
 career-profile:
     title: Interests
     summary: Bayesian Estimation, Intensive Longitudinal Models, Multilevel Models, Structural Equation Models, Time-Series Models 
