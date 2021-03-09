@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Hyungeun Oh
     tagline: Quantitative Psychologist
-    avatar: HyungeunOh.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: HyungeunOh100.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: intothelot@gmail.com
@@ -43,19 +43,11 @@ sidebar:
 
 Interests:
     title: Interests
-    summary: |
-      Bayesian Estimation, Intensive Longitudinal Models, 
-Multilevel Models, Structural Equation Models, Time-Series Models 
+    summary: Bayesian Estimation, Intensive Longitudinal Models, 
+    Multilevel Models, Structural Equation Models, Time-Series Models 
 
 education:
-Education 
-Mar 2019 – Current 	M.A. in Quantitative Psychology, Sungkyunkwan University, South Korea
-Advisor: Seungmin Jahng 
-Thesis: Analyzing Individual Differences of Emotional Instability using Dynamic Structural Equation Models 
-2013 – Feb 2019* 	B.A. in Psychology, Sungkyunkwan University, South Korea 
-*Fall, 2017: Exchange Students, Sports Psychology, University of North Carolina at Greensboro
-*2013–2015: Absence from program due to mandatory military service
-Sergeant, Air Squadron Operational Control Unit, Republic of Korea Air Force 
+
 
 experiences:
     - role: Lead Developer
