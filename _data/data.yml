@@ -4,7 +4,7 @@
 
 sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Hyungeun Oh
@@ -46,6 +46,8 @@ Interests:
     summary: Bayesian Estimation, Intensive Longitudinal Models, Multilevel Models, Structural Equation Models, Time-Series Models 
 
 education:
+      title: education
+      
     - degree: M.A. in Quantitative Psychology
       university: Sungkyunkwan University, South Korea
       time: Mar 2019 - Current
@@ -60,27 +62,29 @@ education:
                            Sergeant, Air Squadron Operational Control Unit, Republic of Korea Air Force 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Analyzing Individual Differences of Emotional Instability using Dynamic Structural Equation Models. Journal name.
+        link: "add hyperlink here"
+        authors: Oh, H., Jahng, S. 
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+presentations:
+    title: presentation
+    presentation:
+      - title: A Simulation Study of the Performances of Multilevel Structural Equation Models with Small Samples: Frequentist vs Bayesian.
+        link: "add hyperlink here"
+        authors: Oh, H., Yu, H., & Jahng, S   
+        conferences: Poster session presented at 2021 Association for Psychological Science Annual Convention. Online Virtual meeting. (May 2021)
         
-       
+      - title: 역동구조방정식을 활용한 정서불안정성의 개인차 분석 [Analyzing Individual Differences of Emotional Instability using Dynamic Structural Equation Models.] 
+        link: "add hyperlink here"
+        authors: Oh, H., & Jahng, S   
+        conferences: Poster session presented at the meeting of the Korean Society of Psychological Measurement and Assessment. Seoul, South Korea. (Oct 2020)
+        
+      - title: 소표본 자료의 다층모형 분석에서 빈도주의와 베이지안 추정의 비교: 시뮬레이션 연구[Comparing Performances of Multilevel Models with Small Samples through Different Estimation Methods: A Simulation Study.] 
+        link: "add hyperlink here"
+        authors: Oh, H.
+        conferences: Poster session presented at the meeting of the Korean Society of Psychological Measurement and Assessment. Seoul, South Korea. (Oct 2019)   
+    
 experiences:
     - role: Lead Developer
       time: 2015 - Present
