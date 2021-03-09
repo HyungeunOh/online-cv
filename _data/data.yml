@@ -152,22 +152,22 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: R
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Mplus
         level: 98%
 
-      - name: Angular
+      - name: JAGS
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: WinBUGS
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Markdown
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: Stan
         level: 60%
 
 footer: >
