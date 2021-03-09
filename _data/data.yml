@@ -33,7 +33,7 @@ sidebar:
         level: Proficient
 
 
-    interests:
+    Personal Interests:
       - item: Soccer
         link:
 
@@ -43,8 +43,7 @@ sidebar:
 
 Interests:
     title: Interests
-    summary: Bayesian Estimation, Intensive Longitudinal Models, 
-    Multilevel Models, Structural Equation Models, Time-Series Models 
+    summary: Bayesian Estimation, Intensive Longitudinal Models, Multilevel Models, Structural Equation Models, Time-Series Models 
 
 education:
     - degree: M.A. in Quantitative Psychology
@@ -52,8 +51,7 @@ education:
       time: Mar 2019 - Current
       Advisor: Seungmin Jahng
       Thesis: Analyzing Individual Differences of Emotional Instability using Dynamic Structural Equation Models 
-          - Bullet point
-          - Bullet point
+
     - degree: B.A. in Psychology
       university: Sungkyunkwan University, South Korea 
       time: 2013 - Feb 2019
@@ -61,8 +59,7 @@ education:
         *Fall, 2017: Exchange Students, Sports Psychology, University of North Carolina at Greensboro
         *2013–2015: Absence from program due to mandatory military service
                     Sergeant, Air Squadron Operational Control Unit, Republic of Korea Air Force 
-          - Bullet point
-          - Bullet point
+
 
 experiences:
     - role: Lead Developer
